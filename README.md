@@ -4,8 +4,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 <p align="center">
-  <a href="https://github.com/ksdkamesh99/Spam-Classifier">
-    <img src="images/front.jfif" alt="Logo">
+  <a href="https://github.com/HarshulAggarwal/Spam_SMS_Detection_Naivebayesalgorithm">
+    <img src="front.jfif" alt="Logo">
   </a>
 </p>
 

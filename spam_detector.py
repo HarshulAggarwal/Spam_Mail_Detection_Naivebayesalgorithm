@@ -2,10 +2,6 @@ import streamlit as st
 import pickle
 import string
 import nltk
-# Download the stopwords corpus
-nltk.download('stopwords')
-# Download the WordNet corpus
-nltk.download('wordnet')
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 lemma = WordNetLemmatizer()

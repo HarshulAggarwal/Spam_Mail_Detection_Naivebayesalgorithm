@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import string
+nltk.download()
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer

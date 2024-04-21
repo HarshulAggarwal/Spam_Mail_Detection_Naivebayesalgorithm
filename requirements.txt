@@ -1,2 +1,10 @@
 nltk==3.6.3
 scikit-learn
+numpy
+panda
+re
+string
+seaborn
+matplotlib
+wordcloud
+pickel

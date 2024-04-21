@@ -1,8 +1,8 @@
 import streamlit as st
 import pickle
 import string
-nltk.download()
 import nltk
+nltk.download()
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 lemma = WordNetLemmatizer()
